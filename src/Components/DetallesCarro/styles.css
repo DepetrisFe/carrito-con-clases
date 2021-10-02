@@ -1,0 +1,23 @@
+.detallesCarro {
+  background-color: #fff;
+  position: absolute;
+  color: black;
+  margin-top: 20px;
+  box-shadow: 1px 5px 5px rgb(0, 0, 0, 0.3);
+  width: 250px;
+  right: 30px;
+}
+
+.lista {
+  margin: 0;
+  padding: 0;
+}
+
+.producto {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 25px 20px;
+  border-bottom: solid 1px #aaa;
+}

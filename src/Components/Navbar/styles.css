@@ -1,0 +1,10 @@
+.styledNavbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 50px;
+  color: white;
+  background-color: #8ac028;
+  height: 70px;
+  position: relative;
+}
